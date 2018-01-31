@@ -1,0 +1,29 @@
+<html>
+<body>
+<h1>
+Cereal
+</h1>
+<h2>
+Emanuel Strachan
+</h2>
+<p>
+We are making this meal at 7 am because breakfast is the most important meal of the day
+</p>
+<h3>
+Ingrediants
+</h3>
+<ul>
+<li>Milk</li>
+<li>Cereal</li>
+</ul>
+<h3>
+What to do
+</h3>
+<or>
+  <li>Get bowl</li>
+  <li>Pour cereal</li>
+  <li>Pour milk</li>
+  <li>Enjoy</li>
+</or>
+</body>
+</html>
