@@ -1,0 +1,35 @@
+<html>
+<body>
+<h1 id="top">
+These are my favorite things
+</h1>
+<a href="#My Movies">My Movies</a><br /><a href="#My Foods">  My Foods</a><br /><a href="#My Shows">  My Shows</a><br /> <a href="#My Music">My Music</a>
+<h2
+id="My Movies"> My Movies
+</h2>
+<a href="http://www.netflix.com"
+target="_blank">Dr Strange</a>
+<h3
+id="My Foods">My Foods
+
+</h3>
+
+<a href="http://www.pizzahut.com"
+target="_blank"> Pizza</a>
+<h4
+id="My Shows">My Shows
+
+</h4>
+<h4/>
+<a href="http://www.netflix.com"
+target="_blank">Naruto</a>
+<h4
+id="My Music">My Music
+
+</h4>
+<h4/>
+<a href="http://www.apple.com/music/"
+target="_blank">Migos</a><br />
+<a href="#top">Top</a>
+</body>
+</html>
