@@ -1,0 +1,103 @@
+<html>
+<a href="#Education">Education</a><br /><a href="#Experience">  Experience</a><br /><a href="#Skills">  Skills</a><br /> 
+<a href="#Objective">  Objective</a><br  />
+<h1>
+
+Michael Alexander
+
+<img src="https://i.redd.it/3yl36ti3cndz.jpg" alt="bird"width="60" height="55" align="right" />
+
+</h1>
+<hr/>
+<address><p>
+
+  Sometown, MA 02108 l (555) 555-5555 l
+  
+   <a href="ma@somedomain.com">
+   ma@somedomain.com 
+  </a></p>
+</address>
+<h4>
+Entry-Level Help-Desk Technician
+</h4>
+<h2
+id=Objective> Objective
+</h2>
+<p>
+To rule the galaxy through theory based applications and cunning skills learned through Sith meditation
+</p>
+<h2
+id=Education> Education
+</h2>
+<p>
+<i>SITH UNIVERSITY, Sometown, MA | 108/120 Credits Earned</i>
+</p>
+<p>
+Pursuing a B.S. in Computer Information Systems l GPA: 3.7/4.0
+</p>
+<h2
+id=Experience> Experience
+</h2>
+<p>
+<i>Help Desk Analyst (2016 to Present) | ABC Company, Sometown, MA</i>
+</p>
+<p>
+Handle technical troubleshooting within an enterprise environment, including system crashes, slow-downs and data recoveries. Engage and track Priority 1 issues, with responsibility for the timely documentation, resolution and closure of trouble tickets. Selected Contributions:
+</p>
+<ul>
+<li>Researched and developed knowledgebase articles for Windows 10 issues, resulting in a 35% increase in first-call resolutions and $5K in annual savings.</li>
+<li>Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores, consistently scoring between 95% and 100% on all calls (outperforming average of 90%).</li>
+<li>Handled 30+ technical/mission-critical calls daily and consistently met high service standards.</li>
+</ul>
+<p>
+<i>Student Help Desk Technician (2015 to 2016) | XYZ UNIVERSITY, Sometown, MA</i>
+</p>
+<p>
+Provide networking/desktop support and perform mainframe and account-maintenance tasks. Earned commendations for teamwork, flexibility and work excellence in providing IT support to students and faculty.
+</p>
+<p>
+<i>Sales Representative (2015 to 2016) | ABC Retail Company, Sometown, MA</i>
+</p>
+<p>
+Leveraged strengths in persuasive communications and consultative sales to become a top sales performer for both retailers (including top 10 rankings out of a 100-member sales force).
+</p>
+<h2
+id=Skills>Technology Summary
+</h2>
+<h4>
+Certifications
+</h4>
+<p>
+CompTIA A+, HDI-Support Center Analyst (HDI-SCA)
+</p>
+<h4>
+Systems
+</h4>
+<p>
+CICS/ISPF/Mainframe, Unix, Linux, Windows, Novell NetWare, Mac OS X, Mobile
+</p>
+<h4>
+Databases
+</h4>
+<p>
+Oracle, Access, Relational Databases     
+</p>
+<h4>
+Languages
+</h4>
+<p>
+Visual Basic, SQL, HTML, ASP, CSS, C++, CGI, Perl, JavaScript
+</p>
+<h4>
+Software
+</h4>
+<p>
+MS Project, MS Visio, MS Office
+</p>
+</html>
+
+
+
+
+h2 {  color: Blue;}
+h4 {  color: Blue;}
