@@ -1,0 +1,174 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: Black;
+}
+
+
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: Red;
+}
+
+
+.leftcolumn {   
+    float: left;
+    width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+}
+
+
+.fakeimg {
+    background-color: Red;
+    width: 100%;
+    padding: 20px;
+}
+
+
+.card {
+     background-color: Red;
+     padding: 20px;
+     margin-top: 20px;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: Red;
+    margin-top: 20px;
+}
+
+
+@media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {   
+        width: 100%;
+        padding: 0;
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h2>The Dark Side</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>Sith Code</h2>
+      <h5>Peace is a lie, May 1, 2018</h5>
+      <img src="https://i.redd.it/3yl36ti3cndz.jpg" alt="bird"width="200" height="200" />
+      
+      <p>Peace is a lie, there is only passion.
+Through passion, I gain strength.
+Through strength, I gain power.
+Through power, I gain victory.
+Through victory, my chains are broken.
+The Force shall free me. </p> 
+    </div>
+    <div class="card">
+      <h2>Sith Order</h2>
+      <h5>The Jedi code is a Lie, May 2, 2018</h5>
+      <img src="https://i.imgur.com/1SpgoDa.jpg" alt="bird"width="200" height="200" />
+  
+      <p>"The Jedi have a code, and we exiles know it well. But we also know it is full of inadequacies and half-truths."</p>
+    </div>
+   
+   
+   <h3>Categories</h3>
+	<ul id="categories">
+		<li><a href="https://www.imdb.com/find?ref_=nv_sr_fn&q=star+wars&s=all"
+target="_blank">Movies</a></li>
+    <li><a href="https://www.gamestop.com/browse?nav=16k-3-Star+Wars,28zu0"
+target="_blank">Games</a></li>
+		
+		<li><a href="http://starwars.wikia.com/wiki/Main_Page"
+target="_blank">Articles</a></li>	
+	</ul>
+	
+	
+	
+	<h3
+  id=About>About</h3>
+	
+	<p>This is a site that welcomes all Star Wars fans who sides with the Empire. Here you will find movie, game, and all other media related to Star Wars <a href="#">Read more&hellip;</a></p>
+	
+
+
+
+
+<h3
+id=Contact>Contact
+</h3>
+
+
+<address><p>
+
+  Phone: (305) 799-9430
+  
+   <a href="emanueljonte@gmail.com">
+   emanueljonte@gmail.com 
+  </a></p>
+</address>
+
+
+   
+   
+   
+   
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <img src="https://wallpapersite.com/images/pages/pic_h/5175.jpg" alt="bird"width="175" height="175" />
+      
+      <p>I'm an advid Star Wars fan who loves the Dark Side of the force because of the cool looks and interesting takes on how people look at the world</p>
+    </div>
+    <div class="card">
+      <h3>Favorite Characters</h3>
+      <img src="https://nerdist.com/wp-content/uploads/2015/05/Lords-of-the-Sith-Featured-05292015.jpeg" alt="bird"width="175" height="175" />
+       <img src="http://swtorbrasil.com.br/wp-content/uploads/2014/12/2392032-darth_malgus_7.jpg" alt="bird"width="175" height="175" />
+      <img src="http://www.denofgeek.us/sites/denofgeekus/files/styles/main_wide/public/0/42/star_wars_the_force_unleashed.jpg" alt="bird"width="175" height="175" />
+    </div>
+    <div class="card">
+      <h3>Follow Me</h3>
+      <p>@Darth_Eman</p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>The Force shall Free You</h2>
+</div>
+
+</body>
+</html>
+
+CSS
+p {  color: white;}
+h3{color: Blue;}
