@@ -1,0 +1,85 @@
+<html>
+<body>
+<h1>
+Cereal
+</h1>
+<h2>
+Emanuel Strachan
+</h2>
+<p>
+We are making this meal at 7 am because breakfast is the most important meal of the day
+</p>
+
+
+
+
+
+</body>
+</html>
+
+
+
+<html lang="en">
+<head>
+ 
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  
+  
+</head>
+<body> 
+
+<div class="container">
+  <h3>Ingrediants</h3>
+  <div class="well"><ul>
+<li>Milk</li>
+<li>Cereal</li>
+</ul></div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  
+</head>
+<body> 
+ 
+<div class="container">
+  <h3>What to do</h3>
+  <div class="panel panel-default">
+    <div class="panel-body"><or>
+  <li>Get bowl</li>
+  <li>Pour cereal</li>
+  <li>Pour milk</li>
+  <li>Enjoy</li>
+</or>
+
+</div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
