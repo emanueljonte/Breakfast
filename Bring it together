@@ -1,0 +1,30 @@
+<html>
+<h1
+id="My Albums">My Albums
+</h1>
+<a href="#Hip-Hop">Hip-Hop</a><br />
+<a href="#R&B">R&B</a><br />
+<a href="#Jazz">Jazz</a><br />
+<h2
+id="Hip-Hop">Hip-Hop
+</h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Culture_II.png" alt="bird"width="175" height="175" />
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4d/The_life_of_pablo_alternate.jpg" alt="bird"width="175" height="175" />
+<img src="https://upload.wikimedia.org/wikipedia/en/0/00/BasedonaTRUStory.jpg" alt="bird"width="175" height="175" />
+<h2
+id="R&B">
+R&B
+</h2>
+
+<img src="https://digitaldreamdoor.com/images_albums/2009-album-5.jpg" alt="bird"width="175" height="175" />
+
+<img src="https://digitaldreamdoor.com/images_albums/2008-album-3.jpg" alt="bird"width="175" height="175" />
+
+<img src="https://digitaldreamdoor.com/images_albums/alb-as-i-am-2007.jpg" alt="bird"width="175" height="175" />
+<h2
+id="Jazz">Jazz
+</h2>
+<img src="http://vinylalbumcovers.com/wp-content/uploads/2015/01/chuckmangionefeelssogoodfront.png" alt="bird"width="175" height="175" />
+<img src="https://qph.fs.quoracdn.net/main-qimg-2fbd0226c250511f85813c0fdccf5e0e-c" alt="bird"width="175" height="175" />
+<img src="http://www.birkajazz.com/graphics2/parkerSavoy9000.jpg" alt="bird"width="175" height="175" />
+</html>
